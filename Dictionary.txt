@@ -17,3 +17,17 @@ ul: makes an unoorderd list. put this above and below a list. attribute: none. e
 <li>watchung tv shwos/movies</li>
 </ul>
 p: makes a paragraph. attribute: none. example: <p>My name is Daryan. I am a grade 9 student at Lord Byng secondary school. I have been at this school since grade 8.</p>
+!DOCTYPE:selects the html version. attribute: html. example: <!DOCTYPE html>
+body: contains content of the webpage. attribute: none. example: 
+<body>
+<h1>Canada</h1>
+</body>
+html: tells you were the html statrs and ends. attribute: none. example:
+<html>
+<h1>canada</h1>
+</html>
+titile: names your browser. attribute: none. exampple: <title>Canada</title>
+head:contains things for your browser to think about. attribate: none. example:
+<head>
+<title>First website </title>
+</head>
