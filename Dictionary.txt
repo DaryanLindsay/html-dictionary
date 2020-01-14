@@ -1,32 +1,43 @@
 the html dictionary
 h1: header tag. makes text large. attribute: none. example <h1> Canada </h1>
+
 h2-6: makes text big but smaller than header. atttribute: none. example: <h2>3 things I like</h2>
 a: makes a link. attribute: href. example: <a href="https://www.youtube.com">Youtube</a>
+
 img: Makes an image appear on page. attribute: src. example: <img src="beagle.jpg" height="281" width="312">
+
 li: makes a list. attribute: none. example: <li>tavelling</li>
+
 ol: makes an ordered list. have to put this above and below a list. attribute: none. example: 
 <ol>
 <li>tavelling</li>
 <li>reading</li>
 <li>watchung tv shwos/movies</li>
 </ol>
+
 ul: makes an unoorderd list. put this above and below a list. attribute: none. example: 
 <ul>
 <li>tavelling</li>
 <li>reading</li>
 <li>watchung tv shwos/movies</li>
 </ul>
+
 p: makes a paragraph. attribute: none. example: <p>My name is Daryan. I am a grade 9 student at Lord Byng secondary school. I have been at this school since grade 8.</p>
+
 !DOCTYPE:selects the html version. attribute: html. example: <!DOCTYPE html>
+
 body: contains content of the webpage. attribute: none. example: 
 <body>
 <h1>Canada</h1>
 </body>
+
 html: tells you were the html statrs and ends. attribute: none. example:
 <html>
 <h1>canada</h1>
 </html>
+
 titile: names your browser. attribute: none. exampple: <title>Canada</title>
+
 head:contains things for your browser to think about. attribate: none. example:
 <head>
 <title>First website </title>
